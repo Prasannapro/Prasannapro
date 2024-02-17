@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/prasanna2r" >Linkedin</a>
+  <a href="www.linkedin.com/in/prasanna2r/" >Linkedin</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
