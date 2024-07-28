@@ -16,6 +16,6 @@
 <h3 align="center">Development Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,c&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=light" />
   </a>
 </p>
