@@ -11,4 +11,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,scala,cpp,c&theme=light" />
   </a>
-</p>>
+</p>
+
+<h3 align="center">Development Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,c&theme=light" />
+  </a>
+</p>
