@@ -30,6 +30,6 @@
 <h3 align="center">Technologies</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,aws,windows,terraform&theme=light" />
+    <img src="https://skillicons.dev/icons?i=linux,aws,windows,terraform,docker&theme=light" />
   </a>
 </p>
