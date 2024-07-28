@@ -16,7 +16,7 @@
 <h3 align="center">Development Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=light" />
   </a>
 </p>
 
@@ -30,6 +30,6 @@
 <h3 align="center">Technologies</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,aws,windows&theme=light" />
+    <img src="https://skillicons.dev/icons?i=linux,aws,windows,terraform&theme=light" />
   </a>
 </p>
