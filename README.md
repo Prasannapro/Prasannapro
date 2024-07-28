@@ -16,6 +16,20 @@
 <h3 align="center">Development Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
+  </a>
+</p>
+
+<h3 align="center">Frameworks</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi&theme=light" />
+  </a>
+</p>
+
+<h3 align="center">Technologies</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,aws,windows&theme=light" />
   </a>
 </p>
