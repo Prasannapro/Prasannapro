@@ -20,10 +20,10 @@
   </a>
 </p>
 
-<h3 align="center">Frameworks</h3>
+<h3 align="center">Frameworks/Libraries</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,express,flask&theme=light" />
+    <img src="https://skillicons.dev/icons?i=fastapi,express,flask,sklearn&theme=light" />
   </a>
 </p>
 
