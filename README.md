@@ -23,7 +23,7 @@
 <h3 align="center">Frameworks</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi&theme=light" />
+    <img src="https://skillicons.dev/icons?i=fastapi,express&theme=light" />
   </a>
 </p>
 
