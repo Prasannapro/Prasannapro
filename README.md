@@ -37,5 +37,5 @@
 
 <h3 align="center">data technologies</h3>
 <p align = "center">
-  <img src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" />
+  <img src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" height="50px" width="50px" />
 </p>
