@@ -24,7 +24,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=fastapi,flask&theme=light" />
-    ![image](https://github.com/user-attachments/assets/8164d008-7fc4-4d8e-b461-71e7b98c10ad)
 
   </a>
 </p>
