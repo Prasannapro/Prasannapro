@@ -38,5 +38,4 @@
 <h3 align="center">data technologies</h3>
 <p align = "center">
   <img src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" height="100px" width="100px" />
-  < img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" height="100px" width="100px" />
 </p>
