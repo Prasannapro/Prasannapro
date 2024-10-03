@@ -9,21 +9,21 @@
 <h3 align="center">Programming Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,scala,cpp,c,java,js&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,scala,cpp,c,js&theme=light" />
   </a>
 </p>
 
 <h3 align="center">Development Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github&theme=light" />
   </a>
 </p>
 
 <h3 align="center">Frameworks/Libraries</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,express,flask,react&theme=light" />
+    <img src="https://skillicons.dev/icons?i=fastapi,flask&theme=light" />
   </a>
 </p>
 
