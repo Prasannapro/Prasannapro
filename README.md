@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasanna</h1>
+
 <h3 align="center">I love learning about hardware and software interaction, interested in machine learning and deep learning</h3>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
